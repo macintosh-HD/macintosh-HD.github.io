@@ -51,7 +51,7 @@ address:
   - line: Berlin, Germany
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Looking for a VPS? <a href="https://m.do.co/c/af92b7336945">☁️</a><br/>Theme: <a href="https://github.com/jeromelachaud/freelancer-theme">Freelancer</a>'
 
 # Build settings
 markdown: kramdown
